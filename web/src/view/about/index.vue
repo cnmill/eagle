@@ -4,7 +4,7 @@
       <el-col :span="12">
         <el-card>
           <template #header>
-            <el-divider>gin-vue-admin</el-divider>
+            <el-divider>DevOps</el-divider>
           </template>
           <div>
             <el-row>
@@ -12,11 +12,11 @@
                 :span="8"
                 :offset="8"
               >
-                <a href="https://github.com/flipped-aurora/gin-vue-admin">
+                <a href=".">
                   <img
                     class="org-img dom-center"
                     src="@/assets/logo.png"
-                    alt="gin-vue-admin"
+                    alt="DevOps"
                   >
                 </a>
               </el-col>
@@ -54,7 +54,7 @@
         </el-card>
         <el-card style="margin-top: 20px">
           <template #header>
-            <div>flipped-aurora团队</div>
+            <div>devops团队</div>
           </template>
           <div>
             <el-row>
